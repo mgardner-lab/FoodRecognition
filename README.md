@@ -30,8 +30,8 @@ The following directories and zipped files combined contain the same images and 
 
 CODE:
 
-[CreatingCoordinates]() contains code to generate a set of pixel coordinates within a label
+[CreatingCoordinates](https://github.com/mgardner-lab/FoodRecognition/blob/main/CreatingCoordinates.m) contains code to generate a set of pixel coordinates within a label
 
-NETWORK:
+NETWORKS:
 
 [Trained DeepLabv3+ Network (MATLAB .mat file)](https://www.dropbox.com/scl/fi/6rk0dh36if6wcsoew9mzh/DeepLabv3p_FoodBin17k.mat?rlkey=fc1jajso0twsbrm34ipeorh74&dl=0)
