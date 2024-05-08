@@ -1,5 +1,10 @@
 # FoodRecognition
-This repository holds the data (and links to data) used for our food recognition projects.<br/>
+This repository holds: <br/>
+(1) the image DATA used for our food recognition projects<br/>
+(2) CODE used to generate a set of pixel coordinates using FM halftoning<br/>
+(3) NETWORKS trained on these data
+
+DATA:
 
 The following directory and zipped file contain the same images, a set of all of the images and binary labels. <br/>
 [Directory: All Images](https://www.dropbox.com/scl/fo/ubohscymgewrri9wrzlph/AEeZ9XiF1nn98X5GIygpZdc?rlkey=r8zk4nyl56wlywxhoopsmkkmr&dl=0)<br/>
@@ -22,3 +27,11 @@ The following directories and zipped files combined contain the same images and 
 [Zipped File: Testing Images](https://www.dropbox.com/scl/fi/67rhzsm32jrcxlq4150j0/Images-Test.zip?rlkey=twf9czo3ozx6vqywvw2j1dshz&dl=0)<br/>
 [Directory: Testing Labels](https://www.dropbox.com/scl/fo/xn3urf7iq9zsxsqercrh5/AGQsInTPbXFqi9LdtOihahU?rlkey=pklxz4pizs7hx3bfziwnrtapa&dl=0)<br/>
 [Zipped File: Testing Labels](https://www.dropbox.com/scl/fi/0idoy3ez7jpc8imz7vl06/Labels-Test.zip?rlkey=lccrneje5l0nnhe5fy70zaakj&dl=0)<br/><br/>
+
+CODE:
+
+[CreatingCoordinates]() contains code to generate a set of pixel coordinates within a label
+
+NETWORK:
+
+[Trained DeepLabv3+ Network (MATLAB .mat file)](https://www.dropbox.com/scl/fi/6rk0dh36if6wcsoew9mzh/DeepLabv3p_FoodBin17k.mat?rlkey=fc1jajso0twsbrm34ipeorh74&dl=0)
