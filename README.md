@@ -7,7 +7,7 @@ The following directory and zipped file contain the same images, a set of all of
 [Directory: All Labels](https://www.dropbox.com/scl/fo/ysfwrrf7wfrugk0l50hcy/AHLfXHtVk5aXoqXFlsqMOKs?rlkey=r014lqx8etfxzaqohd2pso516&dl=0)<br/>
 [Zipped File: All Labels](https://www.dropbox.com/scl/fi/hfey2txvl8rcv8s5d2ept/Labels-Full-Dataset.zip?rlkey=j8se429l0tcb4jfwlbbjdxfk4&dl=0)<br/>
 
-The following directories and zipped files combined contain the same images and labels as the full dataset above. Below, they are organized by 60% train, 20% validation, and 20% testing partitions.<br/>
+The following directories and zipped files combined contain the same images and labels as the full dataset above. Below, they are organized by 60% train, 20% validation, and 20% testing partitions. The files in each partition are also listed in the csv files: testFiles.csv, trainFiles.csv, and valFiles.csv.<br/>
 [Directory: Training Images](https://www.dropbox.com/scl/fo/xlkw0hncs5dd0rptmgm73/AHJghNjDjvd92E_G8_8oKIE?rlkey=aga41dz0ykz0bfb3ijzit8jv0&dl=0)<br/>
 [Zipped File: Training Images](https://www.dropbox.com/scl/fi/dzl75i2hem7rmu7bs6h8z/Images-Train.zip?rlkey=ecyyfcxf85pg1zip4uclfwnq6&dl=0)<br/>
 [Directory: Training Labels](https://www.dropbox.com/scl/fo/rhqf24dexx05ve9lfy0qu/AMv6BYh9BwWW0OX0pwEnoho?rlkey=aucqjulx4cyzd8f8i8hhxw5m0&dl=0)<br/>
