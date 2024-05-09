@@ -7,7 +7,7 @@ This repository holds: <br/>
 
 # DATA
 
-The FoodBin-17k dataset contains 17,118 images and binary labels (food=1, not food=0). The dataset was built by combining images from two datasets, [FoodSeg103](https://dl.acm.org/doi/abs/10.1145/3474085.3475201) (7,118 images and labels) and [UEC-FoodPix Complete](https://link.springer.com/chapter/10.1007/978-3-030-68821-9_51) (10,000 images and labels). The images and labels were resized and center-cropped to be a uniform 224x224 pixels, and the multi-class food labels were collapsed into binary: food=1, not food=0.
+The FoodBin-17k dataset contains 17,118 images and binary labels (food=1, not food=0). The dataset was built by combining images from two datasets, [FoodSeg103](https://dl.acm.org/doi/abs/10.1145/3474085.3475201) (7,118 images and labels) and [UEC-FoodPix Complete](https://link.springer.com/chapter/10.1007/978-3-030-68821-9_51) (10,000 images and labels). The images and labels from these two datasets were resized and center-cropped to be a uniform 224x224 pixels, and the multi-class food labels were collapsed into binary: food=1, not food=0.
 
 The following directory and zipped file contain the same images, a set of all 17,118 images and binary labels. <br/>
 
