@@ -38,7 +38,7 @@ The following directories and zipped files combined contain the same images and 
 
 # CODE
 
-[CreatingCoordinates](https://github.com/mgardner-lab/FoodRecognition/blob/main/CreatingCoordinates.m) contains code to generate a set of pixel coordinates within a label
+[CreatingCoordinates.m](https://github.com/mgardner-lab/FoodRecognition/blob/main/CreatingCoordinates.m) contains MATLAB code to generate a set of pixel coordinates within a label
 
 # NETWORKS
 
