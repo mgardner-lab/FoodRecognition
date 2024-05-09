@@ -3,10 +3,13 @@ This repository holds: <br/>
 (1) the image DATA used for our food recognition projects<br/>
 (2) CODE used to generate a set of pixel coordinates using FM halftoning<br/>
 (3) NETWORKS trained on these data
+(4) our PUBLICATIONS using these data
 
 # DATA
 
-The following directory and zipped file contain the same images, a set of all of the images and binary labels. <br/>
+The FoodBin-17k dataset contains 17,118 images and binary labels (food=1, not food=0). The dataset was built by combining images from two datasets, [FoodSeg103](https://dl.acm.org/doi/abs/10.1145/3474085.3475201) (7,118 images and labels) and [UEC-FoodPix Complete](https://link.springer.com/chapter/10.1007/978-3-030-68821-9_51) (10,000 images and labels). The images and labels were resized and center-cropped to be a uniform 224x224 pixels, and the multi-class food labels were collapsed into binary: food=1, not food=0.
+
+The following directory and zipped file contain the same images, a set of all 17,118 images and binary labels. <br/>
 
 [Directory: All Images](https://www.dropbox.com/scl/fo/ubohscymgewrri9wrzlph/AEeZ9XiF1nn98X5GIygpZdc?rlkey=r8zk4nyl56wlywxhoopsmkkmr&dl=0)<br/>
 [Zipped File: All Images](https://www.dropbox.com/scl/fi/1m23cu3kg0ut856vdl97x/Images-Full-Dataset.zip?rlkey=61muurme2fs210ghrp5jfl76o&dl=0)<br/>
@@ -40,3 +43,7 @@ The following directories and zipped files combined contain the same images and 
 # NETWORKS
 
 [Trained DeepLabv3+ Network (MATLAB .mat file)](https://www.dropbox.com/scl/fi/6rk0dh36if6wcsoew9mzh/DeepLabv3p_FoodBin17k.mat?rlkey=fc1jajso0twsbrm34ipeorh74&dl=0)
+
+# PUBLICATIONS
+
+Alahmari, Saeed S., Michael R. Gardner, and Tawfiq Salem. "[Attention guided approach for food type and state recognition](https://www.sciencedirect.com/science/article/abs/pii/S0960308524000208)." Food and Bioproducts Processing (2024).
