@@ -1,9 +1,9 @@
 # FoodRecognition
 This repository holds: <br/>
-(1) the image DATA used for our food recognition projects<br/>
-(2) CODE used to generate a set of pixel coordinates using FM halftoning<br/>
-(3) NETWORKS trained on these data
-(4) our PUBLICATIONS using these data
+1. The image [DATA](https://github.com/mgardner-lab/FoodRecognition?tab=readme-ov-file#data) used for our food recognition projects
+2. [CODE](https://github.com/mgardner-lab/FoodRecognition?tab=readme-ov-file#code) used to generate a set of pixel coordinates using FM halftoning
+3. [NETWORKS](https://github.com/mgardner-lab/FoodRecognition?tab=readme-ov-file#networks) trained on these data
+4. Our [PUBLICATIONS](https://github.com/mgardner-lab/FoodRecognition?tab=readme-ov-file#publications) using these data
 
 # DATA
 
