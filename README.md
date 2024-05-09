@@ -42,7 +42,7 @@ The following directories and zipped files combined contain the same images and 
 
 # NETWORKS
 
-[Trained DeepLabv3+ Network (MATLAB .mat file)](https://www.dropbox.com/scl/fi/6rk0dh36if6wcsoew9mzh/DeepLabv3p_FoodBin17k.mat?rlkey=fc1jajso0twsbrm34ipeorh74&dl=0)
+[Trained DeepLabv3+ Network (MATLAB .mat file)](https://www.dropbox.com/scl/fi/6rk0dh36if6wcsoew9mzh/DeepLabv3p_FoodBin17k.mat?rlkey=fc1jajso0twsbrm34ipeorh74&dl=0) for binary labeling of food images (1=food, 0=not food). Input/output image size: 224x224 pixels.
 
 # PUBLICATIONS
 
