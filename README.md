@@ -47,3 +47,5 @@ The following directories and zipped files combined contain the same images and 
 # PUBLICATIONS
 
 Alahmari, Saeed S., Michael R. Gardner, and Tawfiq Salem. "[Attention guided approach for food type and state recognition](https://www.sciencedirect.com/science/article/abs/pii/S0960308524000208)." Food and Bioproducts Processing (2024).
+
+Alahmari, Saeed S., Michael R. Gardner, and Tawfiq Salem. "[Segment Anything in Food Images]([https://www.sciencedirect.com/science/article/abs/pii/S0960308524000208](https://openaccess.thecvf.com/content/CVPR2024W/MTF/papers/Alahmari_Segment_Anything_in_Food_Images_CVPRW_2024_paper.pdf)." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (2024).
